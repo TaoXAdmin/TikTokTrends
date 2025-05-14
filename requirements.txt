@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+pytrends
+selenium
+slack-sdk
+python-dotenv
+apache-airflow
+pytest
+tweepy
+praw
+google-api-python-client

@@ -1,0 +1,12 @@
+# Environnements virtuels
+/veille-niches-env/
+# Fichiers de log
+*.log
+# Secrets et lockfiles
+config/.env
+requirements-lock.txt
+# Python
+__pycache__/
+*.py[cod]
+# Airflow
+~/airflow/
